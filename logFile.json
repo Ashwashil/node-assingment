@@ -1,0 +1,13 @@
+[2020-11-16T12:54:07.665] [DEBUG] log - User is signed up
+[2020-11-16T12:54:10.413] [DEBUG] log - Welcome Mail Send Successfully 250 2.0.0 OK  1605511450 r6sm16939143pjd.39 - gsmtp
+[2020-11-16T12:54:42.352] [DEBUG] log - User is signed up
+[2020-11-16T12:54:45.167] [DEBUG] log - Welcome Mail Send Successfully 250 2.0.0 OK  1605511485 v19sm15042112pgi.2 - gsmtp
+[2020-11-16T12:55:38.415] [DEBUG] log - User is signed up
+[2020-11-16T12:55:41.166] [DEBUG] log - Welcome Mail Send Successfully 250 2.0.0 OK  1605511541 i6sm16623754pjt.49 - gsmtp
+[2020-11-16T12:56:27.248] [DEBUG] log - User is signed up
+[2020-11-16T12:56:30.074] [DEBUG] log - Welcome Mail Send Successfully to ashwashil99@gmail.com 250 2.0.0 OK  1605511590 e14sm15299089pga.61 - gsmtp
+[2020-11-16T12:59:18.488] [DEBUG] log - User Exist
+[2020-11-16T12:59:32.931] [ERROR] log - Path `firstName` is required.
+[2020-11-16T12:59:55.157] [ERROR] log - Path `lastName` is required.
+[2020-11-16T13:00:08.562] [ERROR] log - Email is invalid
+[2020-11-16T13:00:30.571] [ERROR] log - Path `password` (`sdsfs`) is shorter than the minimum allowed length (7).
